@@ -13,3 +13,7 @@ p {
     display: block;
     margin-bottom: 1em;
 }
+
+html {
+    cursor: none;
+}
