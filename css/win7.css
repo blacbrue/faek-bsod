@@ -1,0 +1,15 @@
+body {
+    background-color: darkblue;
+    margin-right: 40%;
+}
+
+p {
+    font-family: "Lucida Console";
+    color: white;
+    font-size: 20px;
+}
+
+.brmedium {
+    display: block;
+    margin-bottom: 1em;
+}
