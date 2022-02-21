@@ -2,8 +2,6 @@
 
 Web server to host fake Windows BSODs
 
-<br>
-
 # How to host the server
 
 ## 1. Install dependencies
